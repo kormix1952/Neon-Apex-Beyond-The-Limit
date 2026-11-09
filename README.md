@@ -194,3 +194,6 @@ This repository serves as the official landing page for Neon Apex: Beyond the Li
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of Neon Apex today!**
+
+---
+**Last updated:** 2026-11-09 10:52:19 UTC
